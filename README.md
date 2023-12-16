@@ -1,7 +1,6 @@
 # CpuSimProjects
-# Semester One CPU Simulator
 
-Welcome to my Semester One CPU Simulator repository! This project encompasses a comprehensive set of assembly language programs designed to simulate various aspects of a CPU based on a specific architecture. Each project is aimed at implementing different functionalities to create a holistic understanding of the instruction cycle and register operations.
+Welcome to my CPU Simulator repository! This project encompasses a comprehensive set of assembly language programs designed to simulate various aspects of a CPU based on a specific architecture. Each project is aimed at implementing different functionalities to create a holistic understanding of the instruction cycle and register operations.
 
 ## Projects Overview
 
