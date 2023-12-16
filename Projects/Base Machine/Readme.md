@@ -12,8 +12,7 @@ To utilize the base machine code, follow these steps:
 
 1. Download the `basemachine.a` file in the respective .cpu file.
 2. Open your respective CPU simulation tool.  [Link to CPU Simulation Tool](https://cs.colby.edu/djskrien/CPUSim/)
-3. Load or import the ` [Link to CPU Simulation Tool](https://cs.colby.edu/djskrien/CPUSim/)
-` file into the CPU simulation tool.
+3. Load or import the file into the CPU simulation tool.
 
 ## Issues and Feedback
 
