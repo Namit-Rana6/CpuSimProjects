@@ -12,11 +12,11 @@ The following arithmetic operations have been implemented:
 2. **SUBTRACT Operation**
    - Assembly program for simulating the SUBTRACT operation on two user-entered numbers.
 
-3. **Logical Operations**
-   - Assembly programs for simulating logical operations (AND, OR, NOT, XOR, NOR, NAND) on two user-entered numbers.
+3. **MULTIPLY Operations**
+  - Assembly program for simulating the MULTIPLY operation on two user-entered numbers.
 
-4. **Memory-Reference Instructions**
-   - Assembly programs for simulating memory-reference instructions (ADD, LDA, STA, BUN, ISZ).
+4. **DIVISION Operations**
+   - Assembly program for simulating the DIVISION operation on two user-entered numbers.
 
 ## How to Use
 
