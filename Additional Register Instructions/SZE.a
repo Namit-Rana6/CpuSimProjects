@@ -1,0 +1,5 @@
+SZE
+OUT
+HLT
+;using assemble and load so that we ca  change the values of e
+;to check if the sza is working or not
