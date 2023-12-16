@@ -1,0 +1,9 @@
+Start: read
+       jumpn End
+       add Sum
+       store Sum
+       jump Start
+End:   load Sum
+       write
+       stop
+Sum:   .data 2 0             
