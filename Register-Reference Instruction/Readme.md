@@ -18,10 +18,6 @@ The following register reference instructions have been implemented:
 4. **HLT Operation (Halt)**
    - Assembly program for simulating the HLT operation, which halts the CPU.
 
-## Folder: register_reference_instructions
-
-You can find the assembly programs for these instructions in the "register_reference_instructions" folder.
-
 ## How to Use
 
 1. Download the assembly programs for the desired register reference instruction.
